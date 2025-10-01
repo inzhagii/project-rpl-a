@@ -1,0 +1,38 @@
+:root{
+    --hijau:#048853;
+}
+body{
+    font-family: "poppins";
+    background-color: green;
+}
+.navbar-brand{
+    font-weight: 700;
+    font-size: 20px;
+}
+.nav-link{
+    font-size: 16px;
+    font-weight: 400;
+}
+.nav-link.active{
+    font-size: 16px;
+    font-weight: 700;
+}
+.btn-masuk{
+    width: 133px;
+    height: 40px;
+    background-color: white;
+    border: none;
+    color: #048853;
+    font-size: 16px;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.btn-daftar{
+    width: 133px;
+    height: 40px;
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+}
