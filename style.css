@@ -5,6 +5,7 @@ body{
     font-family: "poppins";
     background-color: green;
 }
+/* navbar */
 .navbar-brand{
     font-weight: 700;
     font-size: 20px;
@@ -35,4 +36,9 @@ body{
     color: white;
     font-size: 16px;
     font-weight: 400;
+}
+/* navbar end */
+#hero{
+    background:linear-gradient(160deg, var(--hijau),#000);
+    height: 100vh;
 }
